@@ -6,7 +6,7 @@ This Python project reverses a video frame-by-frame to ensure precise reversal, 
 
 - **Frame-by-frame precision**: Ensures every frame is reversed in the correct order.
 - **Customizable output**: Supports various video codecs and output formats.
-- **Doe not affect audio tracks**: Audio is not included in output video so you may handle it how you wish.
+- **Dose not affect audio tracks**: Audio is not included in output video so you may handle it how you wish.
 - **Easy to use**: Just drag the input video to the terminal and the reversed video will be in the same directory.
 
 
@@ -41,7 +41,7 @@ Ensure you have the following installed:
    ```bash
    python Video-Reverser/reverse_video.py
    ```
-3. Drag and drop the file into the terminal (or past it's path in).
+3. Drag and drop the file or directory into the terminal (or past it's path in).
 4. Reversed video will be placed in the same directory as source video.
 
 
